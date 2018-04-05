@@ -1,3 +1,1 @@
-# TestRepo
-practice repo
-first change
+This is a git practice exercise
